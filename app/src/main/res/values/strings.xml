@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LostAndFoundApp</string>
+    <string name="show_all_button">SHOW ALL LOST &amp; FOUND ITEMS</string>
+    <string name="create_a_new_advert_button">CREATE A NEW ADVERT</string>
+</resources>
